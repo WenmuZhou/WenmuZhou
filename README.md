@@ -1,4 +1,10 @@
-Hi, I am WenmuZhou
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+### <div align="center">I'm WenmuZhou, a deep learning alchemist 👨‍💻 working remotely since 2016 🚀</div>  
+  
 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/WenmuZhou/count.svg" />
