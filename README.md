@@ -3,11 +3,14 @@
 </div>  
 
 
+
 ### <div align="center">I'm WenmuZhou, a deep learning alchemist 👨‍💻 working remotely since 2016 🚀</div>  
   
 
  ### Profile Views :<br>
-  <img src="https://profile-counter.glitch.me/WenmuZhou/count.svg" />
+ <p>
+  <img src="https://count.getloli.com/get/@:WenmuZhou" alt=":WenmuZhou" />
+</p>
 
 ### WenmuZhou's GitHub stats
 [![WenmuZhou's GitHub stats](https://github-readme-stats.vercel.app/api?username=WenmuZhou&&show_icons=true&theme=prussian&locale=cn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
