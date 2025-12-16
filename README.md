@@ -4,7 +4,7 @@
 
 
 
-### <div align="center">I'm WenmuZhou, a deep learning alchemist 👨‍💻 working remotely since 2016 🚀</div>  
+### <div align="center">I'm WenmuZhou, a Large Language Model Researcher, 👨‍💻 working since 2016 🚀</div>  
   
 
  ### Profile Views :<br>
