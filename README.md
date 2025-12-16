@@ -4,7 +4,7 @@
 
 
 
-### <div align="center">I'm WenmuZhou, a Large Language Model Researcher, 👨‍💻 working since 2016 🚀</div>  
+### <div align="center">I'm WenmuZhou, a Visual Language Model Researcher, 👨‍💻 working since 2016 🚀</div>  
   
 
  ### Profile Views :<br>
